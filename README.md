@@ -16,7 +16,7 @@ R.U.B.E stands for Really Useful Box2D Editor. This editor allows you to graphic
 a Box2D world and save it to a file. You can then load the saved file in your game/app and run the world.
 
 General
-=======
+==========
 The loader consists of several serializers to read in objects from the RUBE JSON output:
 
 	* Body
